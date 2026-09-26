@@ -1,0 +1,7 @@
+{
+  "name": "MediaFetch Pro",
+  "description": "High-speed video & audio media downloader, WhatsApp status saver, and media player with multi-format quality options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
